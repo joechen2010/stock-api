@@ -1,0 +1,15 @@
+target/
+*.iml
+.classpath
+.project
+.settings/
+.idea/
+.gradle/
+.flattened-pom.xml
+*.class
+*.ipr
+*.iws
+*.bat
+**/*.log
+**/*.log.gz
+**/*.pem
